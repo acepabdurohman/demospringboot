@@ -1,0 +1,6 @@
+---
+applications:
+- name: demospringboot
+  path: target/demo-spring-boot-0.0.1-SNAPSHOT
+  services:
+  - db-demospringboot

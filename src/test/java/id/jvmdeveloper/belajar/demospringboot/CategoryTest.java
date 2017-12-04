@@ -22,10 +22,10 @@ public class CategoryTest {
 
     @Test
     public void testFindOne(){
-        Long id = 1l;
+        /*Long id = 1l;
         Category category = categoryRepository.findOne(id);
-        //Assert.assertEquals("mewah", category.getNama());
+        Assert.assertEquals("mewah", category.getNama());
         List<Car> carList = category.getCars();
-        carList.forEach(System.out::println);
+        carList.forEach(System.out::println);*/
     }
 }
